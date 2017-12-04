@@ -1,1 +1,3 @@
-# loruganty.github.io
+# PROJECT FOR EOS
+###### HOSTING TINY WEBSERVER APPLICATION IN GITHUB 
+> Group 6 
